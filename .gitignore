@@ -1,0 +1,12 @@
+node_modules
+*.log
+build
+tmp
+.grunt
+.DS_Store
+.idea
+.vscode
+
+/.vs
+/src/dashboard/pages/local-dev.jade
+
